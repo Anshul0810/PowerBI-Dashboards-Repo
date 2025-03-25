@@ -23,13 +23,9 @@ This Power BI project focuses on Sales Forecasting using historical data, provid
 
 ### 📊 Features
 - **Sales Forecasting (15 Days)** – Uses historical data to predict future sales trends.
-  
 - **Sales Trends Analysis** – Visualizes past sales data to identify peak sales periods.
-  
 - **State-wise Sales Breakdown** – Compares sales performance across different regions.
-  
 - **Time-Series Forecasting** – Provides insights into short-term sales projections.
-  
 - **Interactive Data Visualization** – Enables filtering and exploration of sales metrics.
   
 
