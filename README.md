@@ -22,12 +22,17 @@ This Power BI project is an interactive **Ecommerce Sales Dashboard** that provi
 This Power BI project focuses on Sales Forecasting using historical data, providing insights into sales trends, forecasting future sales, and analyzing performance across different states. The dashboard integrates predictive analytics to help businesses make data-driven decisions.
 
 ### 📊 Features
-✅ Sales Forecasting (15 Days) – Uses historical data to predict future sales trends.
-✅ Sales Trends Analysis – Visualizes past sales data to identify peak sales periods.
-✅ State-wise Sales Breakdown – Compares sales performance across different regions.
-✅ Time-Series Forecasting – Provides insights into short-term sales projections.
-✅ Interactive Data Visualization – Enables filtering and exploration of sales metrics.
+- **Sales Forecasting (15 Days) – Uses historical data to predict future sales trends.
+- 
+- **Sales Trends Analysis – Visualizes past sales data to identify peak sales periods.
+- 
+- **State-wise Sales Breakdown – Compares sales performance across different regions.
+- 
+- **Time-Series Forecasting – Provides insights into short-term sales projections.
+- 
+- **Interactive Data Visualization – Enables filtering and exploration of sales metrics.
+  
 
 ### 📂 Dataset
-🔹 SuperStore_Sales_Dataset.csv – Contains order details, sales figures, product categories, and regional sales data.
+- **SuperStore_Sales_Dataset.csv – Contains order details, sales figures, product categories, and regional sales data.
 
