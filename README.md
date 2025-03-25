@@ -1,6 +1,6 @@
 # PowerBI-Dashboards-Repo
 
-## 🛒 Power BI Ecommerce Sales Dashboard
+## 🛒 Power BI Ecommerce Sales Dashboard - Project 1
 
 ### 📌 Overview
 This Power BI project is an interactive **Ecommerce Sales Dashboard** that provides insights into sales performance, quantity sold, profit analysis, and customer behavior.
